@@ -1,0 +1,10 @@
+C:\Users\valdo\Documents\Accenture\Programación Web.NET con C# .NET\Proyectos\13 oct. 2021\SLNClases\WindowsClases\bin\Debug\WindowsClases.exe.config
+C:\Users\valdo\Documents\Accenture\Programación Web.NET con C# .NET\Proyectos\13 oct. 2021\SLNClases\WindowsClases\bin\Debug\WindowsClases.exe
+C:\Users\valdo\Documents\Accenture\Programación Web.NET con C# .NET\Proyectos\13 oct. 2021\SLNClases\WindowsClases\bin\Debug\WindowsClases.pdb
+C:\Users\valdo\Documents\Accenture\Programación Web.NET con C# .NET\Proyectos\13 oct. 2021\SLNClases\WindowsClases\obj\Debug\WindowsClases.csproj.AssemblyReference.cache
+C:\Users\valdo\Documents\Accenture\Programación Web.NET con C# .NET\Proyectos\13 oct. 2021\SLNClases\WindowsClases\obj\Debug\WindowsClases.Form1.resources
+C:\Users\valdo\Documents\Accenture\Programación Web.NET con C# .NET\Proyectos\13 oct. 2021\SLNClases\WindowsClases\obj\Debug\WindowsClases.Properties.Resources.resources
+C:\Users\valdo\Documents\Accenture\Programación Web.NET con C# .NET\Proyectos\13 oct. 2021\SLNClases\WindowsClases\obj\Debug\WindowsClases.csproj.GenerateResource.cache
+C:\Users\valdo\Documents\Accenture\Programación Web.NET con C# .NET\Proyectos\13 oct. 2021\SLNClases\WindowsClases\obj\Debug\WindowsClases.csproj.CoreCompileInputs.cache
+C:\Users\valdo\Documents\Accenture\Programación Web.NET con C# .NET\Proyectos\13 oct. 2021\SLNClases\WindowsClases\obj\Debug\WindowsClases.exe
+C:\Users\valdo\Documents\Accenture\Programación Web.NET con C# .NET\Proyectos\13 oct. 2021\SLNClases\WindowsClases\obj\Debug\WindowsClases.pdb
