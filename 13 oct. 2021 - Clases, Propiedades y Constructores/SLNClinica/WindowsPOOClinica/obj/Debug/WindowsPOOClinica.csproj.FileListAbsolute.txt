@@ -1,0 +1,10 @@
+C:\Users\valdo\Documents\Accenture\Programación Web.NET con C# .NET\Proyectos\13 oct. 2021\SLNClinica\WindowsPOOClinica\bin\Debug\WindowsPOOClinica.exe.config
+C:\Users\valdo\Documents\Accenture\Programación Web.NET con C# .NET\Proyectos\13 oct. 2021\SLNClinica\WindowsPOOClinica\bin\Debug\WindowsPOOClinica.exe
+C:\Users\valdo\Documents\Accenture\Programación Web.NET con C# .NET\Proyectos\13 oct. 2021\SLNClinica\WindowsPOOClinica\bin\Debug\WindowsPOOClinica.pdb
+C:\Users\valdo\Documents\Accenture\Programación Web.NET con C# .NET\Proyectos\13 oct. 2021\SLNClinica\WindowsPOOClinica\obj\Debug\WindowsPOOClinica.csproj.AssemblyReference.cache
+C:\Users\valdo\Documents\Accenture\Programación Web.NET con C# .NET\Proyectos\13 oct. 2021\SLNClinica\WindowsPOOClinica\obj\Debug\WindowsPOOClinica.Form1.resources
+C:\Users\valdo\Documents\Accenture\Programación Web.NET con C# .NET\Proyectos\13 oct. 2021\SLNClinica\WindowsPOOClinica\obj\Debug\WindowsPOOClinica.Properties.Resources.resources
+C:\Users\valdo\Documents\Accenture\Programación Web.NET con C# .NET\Proyectos\13 oct. 2021\SLNClinica\WindowsPOOClinica\obj\Debug\WindowsPOOClinica.csproj.GenerateResource.cache
+C:\Users\valdo\Documents\Accenture\Programación Web.NET con C# .NET\Proyectos\13 oct. 2021\SLNClinica\WindowsPOOClinica\obj\Debug\WindowsPOOClinica.csproj.CoreCompileInputs.cache
+C:\Users\valdo\Documents\Accenture\Programación Web.NET con C# .NET\Proyectos\13 oct. 2021\SLNClinica\WindowsPOOClinica\obj\Debug\WindowsPOOClinica.exe
+C:\Users\valdo\Documents\Accenture\Programación Web.NET con C# .NET\Proyectos\13 oct. 2021\SLNClinica\WindowsPOOClinica\obj\Debug\WindowsPOOClinica.pdb
