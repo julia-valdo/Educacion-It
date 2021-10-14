@@ -1,6 +1,0 @@
-C:\Users\valdo\Documents\Accenture\Programación Web.NET con C# .NET\Proyectos\Programación Web.NET con C# .NET\Arquitectura en Capas\SLNCursoNet\Entidades\bin\Debug\Entidades.dll
-C:\Users\valdo\Documents\Accenture\Programación Web.NET con C# .NET\Proyectos\Programación Web.NET con C# .NET\Arquitectura en Capas\SLNCursoNet\Entidades\bin\Debug\Entidades.pdb
-C:\Users\valdo\Documents\Accenture\Programación Web.NET con C# .NET\Proyectos\Programación Web.NET con C# .NET\Arquitectura en Capas\SLNCursoNet\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
-C:\Users\valdo\Documents\Accenture\Programación Web.NET con C# .NET\Proyectos\Programación Web.NET con C# .NET\Arquitectura en Capas\SLNCursoNet\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
-C:\Users\valdo\Documents\Accenture\Programación Web.NET con C# .NET\Proyectos\Programación Web.NET con C# .NET\Arquitectura en Capas\SLNCursoNet\Entidades\obj\Debug\Entidades.dll
-C:\Users\valdo\Documents\Accenture\Programación Web.NET con C# .NET\Proyectos\Programación Web.NET con C# .NET\Arquitectura en Capas\SLNCursoNet\Entidades\obj\Debug\Entidades.pdb
