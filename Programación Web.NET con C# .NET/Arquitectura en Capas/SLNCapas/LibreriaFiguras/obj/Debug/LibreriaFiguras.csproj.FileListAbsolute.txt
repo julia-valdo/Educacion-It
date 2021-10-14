@@ -1,0 +1,6 @@
+C:\Users\valdo\Documents\Accenture\Programación Web.NET con C# .NET\Proyectos\Programación Web.NET con C# .NET\Arquitectura en Capas\SLNCapas\LibreriaFiguras\bin\Debug\LibreriaFiguras.dll
+C:\Users\valdo\Documents\Accenture\Programación Web.NET con C# .NET\Proyectos\Programación Web.NET con C# .NET\Arquitectura en Capas\SLNCapas\LibreriaFiguras\bin\Debug\LibreriaFiguras.pdb
+C:\Users\valdo\Documents\Accenture\Programación Web.NET con C# .NET\Proyectos\Programación Web.NET con C# .NET\Arquitectura en Capas\SLNCapas\LibreriaFiguras\obj\Debug\LibreriaFiguras.csproj.AssemblyReference.cache
+C:\Users\valdo\Documents\Accenture\Programación Web.NET con C# .NET\Proyectos\Programación Web.NET con C# .NET\Arquitectura en Capas\SLNCapas\LibreriaFiguras\obj\Debug\LibreriaFiguras.csproj.CoreCompileInputs.cache
+C:\Users\valdo\Documents\Accenture\Programación Web.NET con C# .NET\Proyectos\Programación Web.NET con C# .NET\Arquitectura en Capas\SLNCapas\LibreriaFiguras\obj\Debug\LibreriaFiguras.dll
+C:\Users\valdo\Documents\Accenture\Programación Web.NET con C# .NET\Proyectos\Programación Web.NET con C# .NET\Arquitectura en Capas\SLNCapas\LibreriaFiguras\obj\Debug\LibreriaFiguras.pdb
