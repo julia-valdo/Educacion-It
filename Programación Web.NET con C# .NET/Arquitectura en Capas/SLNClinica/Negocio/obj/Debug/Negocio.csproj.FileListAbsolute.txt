@@ -1,0 +1,6 @@
+C:\Users\valdo\Documents\Accenture\Programación Web.NET con C# .NET\Proyectos\Programación Web.NET con C# .NET\Arquitectura en Capas\SLNClinica\Negocio\bin\Debug\Negocio.dll
+C:\Users\valdo\Documents\Accenture\Programación Web.NET con C# .NET\Proyectos\Programación Web.NET con C# .NET\Arquitectura en Capas\SLNClinica\Negocio\bin\Debug\Negocio.pdb
+C:\Users\valdo\Documents\Accenture\Programación Web.NET con C# .NET\Proyectos\Programación Web.NET con C# .NET\Arquitectura en Capas\SLNClinica\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\valdo\Documents\Accenture\Programación Web.NET con C# .NET\Proyectos\Programación Web.NET con C# .NET\Arquitectura en Capas\SLNClinica\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\valdo\Documents\Accenture\Programación Web.NET con C# .NET\Proyectos\Programación Web.NET con C# .NET\Arquitectura en Capas\SLNClinica\Negocio\obj\Debug\Negocio.dll
+C:\Users\valdo\Documents\Accenture\Programación Web.NET con C# .NET\Proyectos\Programación Web.NET con C# .NET\Arquitectura en Capas\SLNClinica\Negocio\obj\Debug\Negocio.pdb
