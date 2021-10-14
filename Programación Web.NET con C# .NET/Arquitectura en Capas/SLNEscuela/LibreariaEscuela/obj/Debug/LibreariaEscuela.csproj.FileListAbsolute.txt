@@ -1,0 +1,6 @@
+C:\Users\valdo\Documents\Accenture\Programación Web.NET con C# .NET\Proyectos\Programación Web.NET con C# .NET\Arquitectura en Capas\SLNEscuela\LibreariaEscuela\bin\Debug\LibreariaEscuela.dll
+C:\Users\valdo\Documents\Accenture\Programación Web.NET con C# .NET\Proyectos\Programación Web.NET con C# .NET\Arquitectura en Capas\SLNEscuela\LibreariaEscuela\bin\Debug\LibreariaEscuela.pdb
+C:\Users\valdo\Documents\Accenture\Programación Web.NET con C# .NET\Proyectos\Programación Web.NET con C# .NET\Arquitectura en Capas\SLNEscuela\LibreariaEscuela\obj\Debug\LibreariaEscuela.csproj.AssemblyReference.cache
+C:\Users\valdo\Documents\Accenture\Programación Web.NET con C# .NET\Proyectos\Programación Web.NET con C# .NET\Arquitectura en Capas\SLNEscuela\LibreariaEscuela\obj\Debug\LibreariaEscuela.csproj.CoreCompileInputs.cache
+C:\Users\valdo\Documents\Accenture\Programación Web.NET con C# .NET\Proyectos\Programación Web.NET con C# .NET\Arquitectura en Capas\SLNEscuela\LibreariaEscuela\obj\Debug\LibreariaEscuela.dll
+C:\Users\valdo\Documents\Accenture\Programación Web.NET con C# .NET\Proyectos\Programación Web.NET con C# .NET\Arquitectura en Capas\SLNEscuela\LibreariaEscuela\obj\Debug\LibreariaEscuela.pdb
