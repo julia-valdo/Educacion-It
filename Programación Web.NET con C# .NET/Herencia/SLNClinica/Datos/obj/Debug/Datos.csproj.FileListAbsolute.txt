@@ -1,0 +1,6 @@
+C:\Users\valdo\Documents\Accenture\Programación Web.NET con C# .NET\Proyectos\Programación Web.NET con C# .NET\Nueva carpeta\SLNClinica\Datos\bin\Debug\Datos.dll
+C:\Users\valdo\Documents\Accenture\Programación Web.NET con C# .NET\Proyectos\Programación Web.NET con C# .NET\Nueva carpeta\SLNClinica\Datos\bin\Debug\Datos.pdb
+C:\Users\valdo\Documents\Accenture\Programación Web.NET con C# .NET\Proyectos\Programación Web.NET con C# .NET\Nueva carpeta\SLNClinica\Datos\obj\Debug\Datos.csproj.AssemblyReference.cache
+C:\Users\valdo\Documents\Accenture\Programación Web.NET con C# .NET\Proyectos\Programación Web.NET con C# .NET\Nueva carpeta\SLNClinica\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+C:\Users\valdo\Documents\Accenture\Programación Web.NET con C# .NET\Proyectos\Programación Web.NET con C# .NET\Nueva carpeta\SLNClinica\Datos\obj\Debug\Datos.dll
+C:\Users\valdo\Documents\Accenture\Programación Web.NET con C# .NET\Proyectos\Programación Web.NET con C# .NET\Nueva carpeta\SLNClinica\Datos\obj\Debug\Datos.pdb
