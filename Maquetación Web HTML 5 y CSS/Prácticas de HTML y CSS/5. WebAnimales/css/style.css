@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=Rock+Salt&display=swap');
+html {background-color: rgb(255, 252, 248);}
+
+a {color: maroon; 
+   text-decoration: none;
+   display: inline;  
+   margin: 10px;}
+
+#links {background-color: linen;
+        border: linen;
+        padding: 1em; 
+        box-sizing: border-box;
+        border-radius: 20px/20px;}
+
+#cobra {border: none;
+    -webkit-background-clip: text;
+    padding: 1px;
+    background-clip: text;
+    background-image: url(https://i.pinimg.com/originals/48/f0/c0/48f0c0c9ece9621a98d80107c818f250.jpg);
+    background-color: lightyellow;
+    height: 300px;}
+
+h1 {font-family: 'Rock Salt', cursive;
+    text-align: center;
+    color: transparent;
+    font-size: 100px;}
+
+div {border: 2px solid rgb(255, 194, 102); 
+    margin-bottom: 5px; 
+    background-color: linen;}
+
+div article {margin: 10px;}
+
+h2 {font-family: 'Courier New', Courier, monospace;
+    color: rgb(196, 134, 63);
+    font-weight: bold;
+    border-bottom: 2px solid rgb(255, 194, 102);}
+
+b {color: maroon;}
+
+li {font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;}
+  
+img {height: 300px;
+     margin: 5px;}
+
+.centrada {width: 300x; 
+    height: 300px; 
+    display: block; 
+    margin: auto;}
+
+p {font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;}
+
+.tipos {display: inline-block;
+    width: 700px;}

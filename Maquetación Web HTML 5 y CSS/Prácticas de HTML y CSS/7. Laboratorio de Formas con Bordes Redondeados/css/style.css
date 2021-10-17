@@ -1,0 +1,33 @@
+div {background-color: yellow;
+    text-align: center;
+    padding-top: 8px;
+    margin: 5px;
+    width: 10em;
+    height: 3em;}
+
+section {float: left;}    
+
+#caso1 {border-radius: 5px;
+    border: 3px solid black;}
+#caso2 {border-radius: 10px;
+    border: 3px solid black;}
+#caso3 {border-radius: 20px;
+    border: 3px solid black;}
+#caso4 {border-radius: 40px;
+    border: 3px solid black;}
+#caso5 {border-radius: 60px;
+    border: 3px solid black;}
+#caso6 {border-radius: 13em/3em;
+    border: 5px double maroon;}
+#caso7 {border-top-left-radius: 40%;
+    border: 3px solid black;}
+#caso8 {border-radius: 80px 20px;
+    border: 3px solid black;}
+#caso9 {border-radius: 60px 20px 5px;
+    border: 3px solid black;}
+#caso10 {border-radius: 60px 20px 5px 90px;
+    border: 3px solid black;}
+#caso11 {border-radius: 60px/20px;
+    border: 3px solid black;}
+#caso12 {border-radius: 50%;
+    border: 5px double maroon;}

@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Trabajando con la Caja</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link href="css/style.css" rel="stylesheet">
+    </head>
+    <body>
+        <h2>Ejemplo 1</h2>
+        <div id="ejemplo1"></div>
+
+        <h2>Ejemplo 2</h2>
+        <p>Margin, Padding y Border nos brindaran mayor control al momento de organizar los elementos.</p>
+        <div id="ejemplo2"></div>
+
+        <h2>Ejemplo 3</h2>
+        <p>Si comparamos ambas imágenes, podremos observar que existe una pequeña variación de tamaño entre una y otra, esto es debido a que el padding y el border están agregando 10 píxeles respectivamente a cada lado de nuestra caja, haciendo que el tamaño de esta se incrementa en 40 del tamaño original, siendo ahora de 240px width y 140px en height.</p>
+        <div id="ejemplo3-1"></div>
+        <div id="ejemplo3-2"></div>
+        
+        <p>Para saber el ancho real de nuestra caja debemos sumar lo siguiente:</p>
+        <p>margin-left + border-left + padding-left + width + padding-right + border-right + margin-right</p>
+        <p>De igual manera con el alto de la caja:</p>
+        <p>margin-top + border-top + padding-top + height + padding-bottom + border-bottom + margin-bottom</p>
+        <p>---> <b>El modelo de caja por defecto es aditivo</b></p>
+
+        <h2>Ejemplo 4</h2>
+        <div id="ejemplo4"></div>
+
+        <h2>Ejemplo 5</h2>
+        <p>Las propiedades margin y padding pueden aceptar de uno a cuatro valores</p>
+        <ul>
+            <li>Si declaramos un solo valor para Margin y Padding, este se establecerá ese valor para cada lado de la caja</li>
+            <li>Si declaramos 2 valores para Margin y Padding, se establecerá el primero para Top y Bottom y el segundo para Left y Right</li>
+            <li>Con 3 valores estableceremos el Top, Right y Bottom de nuestro Padding y Margin, al no establecer el valor de Left este tomará el mismo que el de Right</li>
+            <li>Estableciendo 4 valores le asignamos un tamaño a cada lado del margin y padding</li>
+        </ul>
+        <div id="ejemplo5"></div>
+        <p>Es importante mencionar que <b>la asignación de valores va en sentido horario</b> comenzando por el Top y finalizando en el Left.</p>
+        <p>Entre el Margin y el Padding encontramos al Border el cual requiere de 3 valores (width, style y color) para poder ser visualizado correctamente.</p>
+
+        <p>Cuando deseamos hacer que un borde sea redondeado utilizamos <b>border-radius</b>. Esta propiedad modifica la forma en la que se muestran las esquinas de nuestra caja, border-radius acepta valores en píxeles y en porcentajes, además podemos establecer valores para cada borde por separado, muy parecido a lo que vimos anteriormente.</p>
+        <div id="ejemplo5-1"></div>
+        <div id="ejemplo5-2"></div>
+
+        <h2>Box-Sizing</h2>
+        <h3>Content-Box</h3>
+        <p>Es el valor por defecto que tiene el Box Model, su características es que es aditivo, es decir, si agregamos un tamaño al margin, padding y border estos se sumaran al width y height establecidos, agrandando el tamaño real de nuestra caja.</p>
+        <div id="content"></div>
+
+        <h3>Padding-Box</h3>
+        <p>Incluye el tamaño del padding dentro del tamaño establecido para la caja, es decir que el padding no sumará pixeles al tamaño de la caja, sino que el tamaño de la caja se reducirá para que al agregarle el padding la caja mantenga el tamaño establecido inicialmente, dejando fuera a border y margin.</p>
+        <div id="padding"></div>
+
+        <h3>Border-Box</h3>
+        <p>Al igual que el anterior disminuirá su tamaño agregando al padding y border para que el tamaño establecido de la caja se mantenga, dejando fuera al margin.</p>
+        <div id="border"></div>
+    </body>
+</html>
