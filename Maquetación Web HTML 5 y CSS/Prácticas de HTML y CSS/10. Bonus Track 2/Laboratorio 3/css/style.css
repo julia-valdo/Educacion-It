@@ -1,0 +1,5 @@
+p:first-child { color: red;}
+:nth-child(2) { color: yellowgreen;}
+p:nth-of-type(2) { color: green;}
+p:nth-child(4) { color: lightsalmon;}
+p:last-child { color:blue;}
