@@ -1,0 +1,14 @@
+C:\Users\valdo\Documents\Accenture\Programación Web.NET con C# .NET\Proyectos\Programación Web.NET con C# .NET\Clase Static - Colecciones\SLNLibreriaColecciones\WindowsList\bin\Debug\WindowsList.exe.config
+C:\Users\valdo\Documents\Accenture\Programación Web.NET con C# .NET\Proyectos\Programación Web.NET con C# .NET\Clase Static - Colecciones\SLNLibreriaColecciones\WindowsList\bin\Debug\WindowsList.exe
+C:\Users\valdo\Documents\Accenture\Programación Web.NET con C# .NET\Proyectos\Programación Web.NET con C# .NET\Clase Static - Colecciones\SLNLibreriaColecciones\WindowsList\bin\Debug\WindowsList.pdb
+C:\Users\valdo\Documents\Accenture\Programación Web.NET con C# .NET\Proyectos\Programación Web.NET con C# .NET\Clase Static - Colecciones\SLNLibreriaColecciones\WindowsList\bin\Debug\Entidades.dll
+C:\Users\valdo\Documents\Accenture\Programación Web.NET con C# .NET\Proyectos\Programación Web.NET con C# .NET\Clase Static - Colecciones\SLNLibreriaColecciones\WindowsList\bin\Debug\Entidades.pdb
+C:\Users\valdo\Documents\Accenture\Programación Web.NET con C# .NET\Proyectos\Programación Web.NET con C# .NET\Clase Static - Colecciones\SLNLibreriaColecciones\WindowsList\obj\Debug\WindowsList.csproj.AssemblyReference.cache
+C:\Users\valdo\Documents\Accenture\Programación Web.NET con C# .NET\Proyectos\Programación Web.NET con C# .NET\Clase Static - Colecciones\SLNLibreriaColecciones\WindowsList\obj\Debug\WindowsList.Properties.Resources.resources
+C:\Users\valdo\Documents\Accenture\Programación Web.NET con C# .NET\Proyectos\Programación Web.NET con C# .NET\Clase Static - Colecciones\SLNLibreriaColecciones\WindowsList\obj\Debug\WindowsList.csproj.GenerateResource.cache
+C:\Users\valdo\Documents\Accenture\Programación Web.NET con C# .NET\Proyectos\Programación Web.NET con C# .NET\Clase Static - Colecciones\SLNLibreriaColecciones\WindowsList\obj\Debug\WindowsList.csproj.CoreCompileInputs.cache
+C:\Users\valdo\Documents\Accenture\Programación Web.NET con C# .NET\Proyectos\Programación Web.NET con C# .NET\Clase Static - Colecciones\SLNLibreriaColecciones\WindowsList\obj\Debug\WindowsList.exe
+C:\Users\valdo\Documents\Accenture\Programación Web.NET con C# .NET\Proyectos\Programación Web.NET con C# .NET\Clase Static - Colecciones\SLNLibreriaColecciones\WindowsList\obj\Debug\WindowsList.pdb
+C:\Users\valdo\Documents\Accenture\Programación Web.NET con C# .NET\Proyectos\Programación Web.NET con C# .NET\Clase Static - Colecciones\SLNLibreriaColecciones\WindowsList\obj\Debug\WindowsList.frmAutor.resources
+C:\Users\valdo\Documents\Accenture\Programación Web.NET con C# .NET\Proyectos\Programación Web.NET con C# .NET\Clase Static - Colecciones\SLNLibreriaColecciones\WindowsList\obj\Debug\WindowsList.frmEmpleado.resources
+C:\Users\valdo\Documents\Accenture\Programación Web.NET con C# .NET\Proyectos\Programación Web.NET con C# .NET\Clase Static - Colecciones\SLNLibreriaColecciones\WindowsList\obj\Debug\WindowsList.frmPublicador.resources
