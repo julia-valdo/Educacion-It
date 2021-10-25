@@ -1,0 +1,12 @@
+C:\Users\valdo\Documents\Accenture\Programación Web.NET con C# .NET\Proyectos\Programación Web.NET con C# .NET\Operaciones de Modificacion - Prsentacion Web\SLNSistemaMedicos\WebMedico\bin\WebMedico.dll.config
+C:\Users\valdo\Documents\Accenture\Programación Web.NET con C# .NET\Proyectos\Programación Web.NET con C# .NET\Operaciones de Modificacion - Prsentacion Web\SLNSistemaMedicos\WebMedico\bin\WebMedico.dll
+C:\Users\valdo\Documents\Accenture\Programación Web.NET con C# .NET\Proyectos\Programación Web.NET con C# .NET\Operaciones de Modificacion - Prsentacion Web\SLNSistemaMedicos\WebMedico\bin\WebMedico.pdb
+C:\Users\valdo\Documents\Accenture\Programación Web.NET con C# .NET\Proyectos\Programación Web.NET con C# .NET\Operaciones de Modificacion - Prsentacion Web\SLNSistemaMedicos\WebMedico\bin\Datos.dll
+C:\Users\valdo\Documents\Accenture\Programación Web.NET con C# .NET\Proyectos\Programación Web.NET con C# .NET\Operaciones de Modificacion - Prsentacion Web\SLNSistemaMedicos\WebMedico\bin\Entidades.dll
+C:\Users\valdo\Documents\Accenture\Programación Web.NET con C# .NET\Proyectos\Programación Web.NET con C# .NET\Operaciones de Modificacion - Prsentacion Web\SLNSistemaMedicos\WebMedico\bin\Datos.pdb
+C:\Users\valdo\Documents\Accenture\Programación Web.NET con C# .NET\Proyectos\Programación Web.NET con C# .NET\Operaciones de Modificacion - Prsentacion Web\SLNSistemaMedicos\WebMedico\bin\Datos.dll.config
+C:\Users\valdo\Documents\Accenture\Programación Web.NET con C# .NET\Proyectos\Programación Web.NET con C# .NET\Operaciones de Modificacion - Prsentacion Web\SLNSistemaMedicos\WebMedico\bin\Entidades.pdb
+C:\Users\valdo\Documents\Accenture\Programación Web.NET con C# .NET\Proyectos\Programación Web.NET con C# .NET\Operaciones de Modificacion - Prsentacion Web\SLNSistemaMedicos\WebMedico\obj\Debug\WebMedico.csproj.AssemblyReference.cache
+C:\Users\valdo\Documents\Accenture\Programación Web.NET con C# .NET\Proyectos\Programación Web.NET con C# .NET\Operaciones de Modificacion - Prsentacion Web\SLNSistemaMedicos\WebMedico\obj\Debug\WebMedico.csproj.CoreCompileInputs.cache
+C:\Users\valdo\Documents\Accenture\Programación Web.NET con C# .NET\Proyectos\Programación Web.NET con C# .NET\Operaciones de Modificacion - Prsentacion Web\SLNSistemaMedicos\WebMedico\obj\Debug\WebMedico.dll
+C:\Users\valdo\Documents\Accenture\Programación Web.NET con C# .NET\Proyectos\Programación Web.NET con C# .NET\Operaciones de Modificacion - Prsentacion Web\SLNSistemaMedicos\WebMedico\obj\Debug\WebMedico.pdb

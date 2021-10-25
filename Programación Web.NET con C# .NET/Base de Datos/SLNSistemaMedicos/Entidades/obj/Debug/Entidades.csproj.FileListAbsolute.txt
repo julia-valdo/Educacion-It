@@ -1,0 +1,12 @@
+C:\Users\valdo\Documents\Accenture\Programación Web.NET con C# .NET\Proyectos\Programación Web.NET con C# .NET\Modelo Desconectado 2\SLNSistemaMedicos\Entidades\bin\Debug\Entidades.dll
+C:\Users\valdo\Documents\Accenture\Programación Web.NET con C# .NET\Proyectos\Programación Web.NET con C# .NET\Modelo Desconectado 2\SLNSistemaMedicos\Entidades\bin\Debug\Entidades.pdb
+C:\Users\valdo\Documents\Accenture\Programación Web.NET con C# .NET\Proyectos\Programación Web.NET con C# .NET\Modelo Desconectado 2\SLNSistemaMedicos\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\valdo\Documents\Accenture\Programación Web.NET con C# .NET\Proyectos\Programación Web.NET con C# .NET\Modelo Desconectado 2\SLNSistemaMedicos\Entidades\obj\Debug\Entidades.dll
+C:\Users\valdo\Documents\Accenture\Programación Web.NET con C# .NET\Proyectos\Programación Web.NET con C# .NET\Modelo Desconectado 2\SLNSistemaMedicos\Entidades\obj\Debug\Entidades.pdb
+C:\Users\valdo\Documents\Accenture\Programación Web.NET con C# .NET\Proyectos\Programación Web.NET con C# .NET\Modelo Desconectado 2\SLNSistemaMedicos\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\valdo\Documents\Accenture\Programación Web.NET con C# .NET\Proyectos\Programación Web.NET con C# .NET\Operaciones de Modificacion - Prsentacion Web\SLNSistemaMedicos\Entidades\bin\Debug\Entidades.dll
+C:\Users\valdo\Documents\Accenture\Programación Web.NET con C# .NET\Proyectos\Programación Web.NET con C# .NET\Operaciones de Modificacion - Prsentacion Web\SLNSistemaMedicos\Entidades\bin\Debug\Entidades.pdb
+C:\Users\valdo\Documents\Accenture\Programación Web.NET con C# .NET\Proyectos\Programación Web.NET con C# .NET\Operaciones de Modificacion - Prsentacion Web\SLNSistemaMedicos\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\valdo\Documents\Accenture\Programación Web.NET con C# .NET\Proyectos\Programación Web.NET con C# .NET\Operaciones de Modificacion - Prsentacion Web\SLNSistemaMedicos\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\valdo\Documents\Accenture\Programación Web.NET con C# .NET\Proyectos\Programación Web.NET con C# .NET\Operaciones de Modificacion - Prsentacion Web\SLNSistemaMedicos\Entidades\obj\Debug\Entidades.dll
+C:\Users\valdo\Documents\Accenture\Programación Web.NET con C# .NET\Proyectos\Programación Web.NET con C# .NET\Operaciones de Modificacion - Prsentacion Web\SLNSistemaMedicos\Entidades\obj\Debug\Entidades.pdb
