@@ -1,0 +1,28 @@
+C:\Users\valdo\Documents\Accenture\Programación Web.NET con C# .NET\Proyectos\Programación Web.NET con C# .NET\Modelo Conectado\SLNPubs\WindowsPubs\bin\Debug\WindowsPubs.exe.config
+C:\Users\valdo\Documents\Accenture\Programación Web.NET con C# .NET\Proyectos\Programación Web.NET con C# .NET\Modelo Conectado\SLNPubs\WindowsPubs\bin\Debug\WindowsPubs.exe
+C:\Users\valdo\Documents\Accenture\Programación Web.NET con C# .NET\Proyectos\Programación Web.NET con C# .NET\Modelo Conectado\SLNPubs\WindowsPubs\bin\Debug\WindowsPubs.pdb
+C:\Users\valdo\Documents\Accenture\Programación Web.NET con C# .NET\Proyectos\Programación Web.NET con C# .NET\Modelo Conectado\SLNPubs\WindowsPubs\bin\Debug\Datos.dll
+C:\Users\valdo\Documents\Accenture\Programación Web.NET con C# .NET\Proyectos\Programación Web.NET con C# .NET\Modelo Conectado\SLNPubs\WindowsPubs\bin\Debug\Datos.pdb
+C:\Users\valdo\Documents\Accenture\Programación Web.NET con C# .NET\Proyectos\Programación Web.NET con C# .NET\Modelo Conectado\SLNPubs\WindowsPubs\bin\Debug\Datos.dll.config
+C:\Users\valdo\Documents\Accenture\Programación Web.NET con C# .NET\Proyectos\Programación Web.NET con C# .NET\Modelo Conectado\SLNPubs\WindowsPubs\obj\Debug\WindowsPubs.csproj.AssemblyReference.cache
+C:\Users\valdo\Documents\Accenture\Programación Web.NET con C# .NET\Proyectos\Programación Web.NET con C# .NET\Modelo Conectado\SLNPubs\WindowsPubs\obj\Debug\WindowsPubs.FormAutores.resources
+C:\Users\valdo\Documents\Accenture\Programación Web.NET con C# .NET\Proyectos\Programación Web.NET con C# .NET\Modelo Conectado\SLNPubs\WindowsPubs\obj\Debug\WindowsPubs.Properties.Resources.resources
+C:\Users\valdo\Documents\Accenture\Programación Web.NET con C# .NET\Proyectos\Programación Web.NET con C# .NET\Modelo Conectado\SLNPubs\WindowsPubs\obj\Debug\WindowsPubs.csproj.GenerateResource.cache
+C:\Users\valdo\Documents\Accenture\Programación Web.NET con C# .NET\Proyectos\Programación Web.NET con C# .NET\Modelo Conectado\SLNPubs\WindowsPubs\obj\Debug\WindowsPubs.csproj.CoreCompileInputs.cache
+C:\Users\valdo\Documents\Accenture\Programación Web.NET con C# .NET\Proyectos\Programación Web.NET con C# .NET\Modelo Conectado\SLNPubs\WindowsPubs\obj\Debug\WindowsPubs.exe
+C:\Users\valdo\Documents\Accenture\Programación Web.NET con C# .NET\Proyectos\Programación Web.NET con C# .NET\Modelo Conectado\SLNPubs\WindowsPubs\obj\Debug\WindowsPubs.pdb
+C:\Users\valdo\Documents\Accenture\Programación Web.NET con C# .NET\Proyectos\Programación Web.NET con C# .NET\Modelo Conectado\SLNPubs\WindowsPubs\obj\Debug\WindowsPubs.FormPublishers.resources
+C:\Users\valdo\Documents\Accenture\Programación Web.NET con C# .NET\Proyectos\Programación Web.NET con C# .NET\Modelo Desconectado 2\SLNPubs\WindowsPubs\bin\Debug\WindowsPubs.exe.config
+C:\Users\valdo\Documents\Accenture\Programación Web.NET con C# .NET\Proyectos\Programación Web.NET con C# .NET\Modelo Desconectado 2\SLNPubs\WindowsPubs\bin\Debug\WindowsPubs.exe
+C:\Users\valdo\Documents\Accenture\Programación Web.NET con C# .NET\Proyectos\Programación Web.NET con C# .NET\Modelo Desconectado 2\SLNPubs\WindowsPubs\bin\Debug\WindowsPubs.pdb
+C:\Users\valdo\Documents\Accenture\Programación Web.NET con C# .NET\Proyectos\Programación Web.NET con C# .NET\Modelo Desconectado 2\SLNPubs\WindowsPubs\bin\Debug\Datos.dll
+C:\Users\valdo\Documents\Accenture\Programación Web.NET con C# .NET\Proyectos\Programación Web.NET con C# .NET\Modelo Desconectado 2\SLNPubs\WindowsPubs\bin\Debug\Datos.pdb
+C:\Users\valdo\Documents\Accenture\Programación Web.NET con C# .NET\Proyectos\Programación Web.NET con C# .NET\Modelo Desconectado 2\SLNPubs\WindowsPubs\bin\Debug\Datos.dll.config
+C:\Users\valdo\Documents\Accenture\Programación Web.NET con C# .NET\Proyectos\Programación Web.NET con C# .NET\Modelo Desconectado 2\SLNPubs\WindowsPubs\obj\Debug\WindowsPubs.csproj.AssemblyReference.cache
+C:\Users\valdo\Documents\Accenture\Programación Web.NET con C# .NET\Proyectos\Programación Web.NET con C# .NET\Modelo Desconectado 2\SLNPubs\WindowsPubs\obj\Debug\WindowsPubs.FormAutores.resources
+C:\Users\valdo\Documents\Accenture\Programación Web.NET con C# .NET\Proyectos\Programación Web.NET con C# .NET\Modelo Desconectado 2\SLNPubs\WindowsPubs\obj\Debug\WindowsPubs.FormPublishers.resources
+C:\Users\valdo\Documents\Accenture\Programación Web.NET con C# .NET\Proyectos\Programación Web.NET con C# .NET\Modelo Desconectado 2\SLNPubs\WindowsPubs\obj\Debug\WindowsPubs.Properties.Resources.resources
+C:\Users\valdo\Documents\Accenture\Programación Web.NET con C# .NET\Proyectos\Programación Web.NET con C# .NET\Modelo Desconectado 2\SLNPubs\WindowsPubs\obj\Debug\WindowsPubs.csproj.GenerateResource.cache
+C:\Users\valdo\Documents\Accenture\Programación Web.NET con C# .NET\Proyectos\Programación Web.NET con C# .NET\Modelo Desconectado 2\SLNPubs\WindowsPubs\obj\Debug\WindowsPubs.csproj.CoreCompileInputs.cache
+C:\Users\valdo\Documents\Accenture\Programación Web.NET con C# .NET\Proyectos\Programación Web.NET con C# .NET\Modelo Desconectado 2\SLNPubs\WindowsPubs\obj\Debug\WindowsPubs.exe
+C:\Users\valdo\Documents\Accenture\Programación Web.NET con C# .NET\Proyectos\Programación Web.NET con C# .NET\Modelo Desconectado 2\SLNPubs\WindowsPubs\obj\Debug\WindowsPubs.pdb
