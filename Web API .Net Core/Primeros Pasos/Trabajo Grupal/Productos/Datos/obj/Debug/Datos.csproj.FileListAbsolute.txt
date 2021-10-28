@@ -1,0 +1,27 @@
+C:\Users\valdo\source\repos\Productos\Datos\bin\Debug\Datos.dll.config
+C:\Users\valdo\source\repos\Productos\Datos\bin\Debug\Datos.dll
+C:\Users\valdo\source\repos\Productos\Datos\bin\Debug\Datos.pdb
+C:\Users\valdo\source\repos\Productos\Datos\bin\Debug\EntityFramework.dll
+C:\Users\valdo\source\repos\Productos\Datos\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\valdo\source\repos\Productos\Datos\bin\Debug\EntityFramework.xml
+C:\Users\valdo\source\repos\Productos\Datos\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\valdo\source\repos\Productos\Datos\obj\Debug\Datos.csproj.AssemblyReference.cache
+C:\Users\valdo\source\repos\Productos\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+C:\Users\valdo\source\repos\Productos\Datos\obj\Debug\Datos.dll
+C:\Users\valdo\source\repos\Productos\Datos\obj\Debug\Datos.pdb
+C:\Users\valdo\source\repos\Productos\Datos\obj\Debug\Datos.Migrations.DatosContacto.resources
+C:\Users\valdo\source\repos\Productos\Datos\obj\Debug\Datos.csproj.GenerateResource.cache
+C:\Users\valdo\Documents\Accenture\Web API .Net Core\Proyectos\Inicio EntityFramework\Productos\Datos\bin\Debug\Datos.dll.config
+C:\Users\valdo\Documents\Accenture\Web API .Net Core\Proyectos\Inicio EntityFramework\Productos\Datos\bin\Debug\Datos.dll
+C:\Users\valdo\Documents\Accenture\Web API .Net Core\Proyectos\Inicio EntityFramework\Productos\Datos\bin\Debug\Datos.pdb
+C:\Users\valdo\Documents\Accenture\Web API .Net Core\Proyectos\Inicio EntityFramework\Productos\Datos\bin\Debug\EntityFramework.dll
+C:\Users\valdo\Documents\Accenture\Web API .Net Core\Proyectos\Inicio EntityFramework\Productos\Datos\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\valdo\Documents\Accenture\Web API .Net Core\Proyectos\Inicio EntityFramework\Productos\Datos\bin\Debug\EntityFramework.xml
+C:\Users\valdo\Documents\Accenture\Web API .Net Core\Proyectos\Inicio EntityFramework\Productos\Datos\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\valdo\Documents\Accenture\Web API .Net Core\Proyectos\Inicio EntityFramework\Productos\Datos\obj\Debug\Datos.csproj.AssemblyReference.cache
+C:\Users\valdo\Documents\Accenture\Web API .Net Core\Proyectos\Inicio EntityFramework\Productos\Datos\obj\Debug\Datos.Migrations.DatosContacto.resources
+C:\Users\valdo\Documents\Accenture\Web API .Net Core\Proyectos\Inicio EntityFramework\Productos\Datos\obj\Debug\Datos.csproj.GenerateResource.cache
+C:\Users\valdo\Documents\Accenture\Web API .Net Core\Proyectos\Inicio EntityFramework\Productos\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+C:\Users\valdo\Documents\Accenture\Web API .Net Core\Proyectos\Inicio EntityFramework\Productos\Datos\obj\Debug\Datos.dll
+C:\Users\valdo\Documents\Accenture\Web API .Net Core\Proyectos\Inicio EntityFramework\Productos\Datos\obj\Debug\Datos.pdb
+C:\Users\valdo\Documents\Accenture\Web API .Net Core\Proyectos\Inicio EntityFramework\Productos\Datos\obj\Debug\Datos.Migrations.update.resources
