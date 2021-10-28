@@ -1,0 +1,14 @@
+C:\Users\valdo\Documents\Accenture\Web API .Net Core\Proyectos\Inicio EntityFramework\SLN_Ventas\EF_Ventas\bin\Debug\EF_Ventas.dll.config
+C:\Users\valdo\Documents\Accenture\Web API .Net Core\Proyectos\Inicio EntityFramework\SLN_Ventas\EF_Ventas\bin\Debug\EF_Ventas.dll
+C:\Users\valdo\Documents\Accenture\Web API .Net Core\Proyectos\Inicio EntityFramework\SLN_Ventas\EF_Ventas\bin\Debug\EF_Ventas.pdb
+C:\Users\valdo\Documents\Accenture\Web API .Net Core\Proyectos\Inicio EntityFramework\SLN_Ventas\EF_Ventas\bin\Debug\EntityFramework.dll
+C:\Users\valdo\Documents\Accenture\Web API .Net Core\Proyectos\Inicio EntityFramework\SLN_Ventas\EF_Ventas\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\valdo\Documents\Accenture\Web API .Net Core\Proyectos\Inicio EntityFramework\SLN_Ventas\EF_Ventas\bin\Debug\EntityFramework.xml
+C:\Users\valdo\Documents\Accenture\Web API .Net Core\Proyectos\Inicio EntityFramework\SLN_Ventas\EF_Ventas\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\valdo\Documents\Accenture\Web API .Net Core\Proyectos\Inicio EntityFramework\SLN_Ventas\EF_Ventas\obj\Debug\EF_Ventas.csproj.AssemblyReference.cache
+C:\Users\valdo\Documents\Accenture\Web API .Net Core\Proyectos\Inicio EntityFramework\SLN_Ventas\EF_Ventas\obj\Debug\EF_Ventas.csproj.CoreCompileInputs.cache
+C:\Users\valdo\Documents\Accenture\Web API .Net Core\Proyectos\Inicio EntityFramework\SLN_Ventas\EF_Ventas\obj\Debug\EF_Ventas.dll
+C:\Users\valdo\Documents\Accenture\Web API .Net Core\Proyectos\Inicio EntityFramework\SLN_Ventas\EF_Ventas\obj\Debug\EF_Ventas.pdb
+C:\Users\valdo\Documents\Accenture\Web API .Net Core\Proyectos\Inicio EntityFramework\SLN_Ventas\EF_Ventas\obj\Debug\EF_Ventas.Migrations.initial.resources
+C:\Users\valdo\Documents\Accenture\Web API .Net Core\Proyectos\Inicio EntityFramework\SLN_Ventas\EF_Ventas\obj\Debug\EF_Ventas.csproj.GenerateResource.cache
+C:\Users\valdo\Documents\Accenture\Web API .Net Core\Proyectos\Inicio EntityFramework\SLN_Ventas\EF_Ventas\obj\Debug\EF_Ventas.Migrations.update.resources
