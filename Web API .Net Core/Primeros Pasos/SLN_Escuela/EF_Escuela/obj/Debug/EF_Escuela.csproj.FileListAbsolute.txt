@@ -1,0 +1,13 @@
+C:\Users\valdo\Documents\Accenture\Web API .Net Core\Proyectos\Inicio EntityFramework\SLN_Escuela\EF_Escuela\bin\Debug\EF_Escuela.dll.config
+C:\Users\valdo\Documents\Accenture\Web API .Net Core\Proyectos\Inicio EntityFramework\SLN_Escuela\EF_Escuela\bin\Debug\EF_Escuela.dll
+C:\Users\valdo\Documents\Accenture\Web API .Net Core\Proyectos\Inicio EntityFramework\SLN_Escuela\EF_Escuela\bin\Debug\EF_Escuela.pdb
+C:\Users\valdo\Documents\Accenture\Web API .Net Core\Proyectos\Inicio EntityFramework\SLN_Escuela\EF_Escuela\bin\Debug\EntityFramework.dll
+C:\Users\valdo\Documents\Accenture\Web API .Net Core\Proyectos\Inicio EntityFramework\SLN_Escuela\EF_Escuela\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\valdo\Documents\Accenture\Web API .Net Core\Proyectos\Inicio EntityFramework\SLN_Escuela\EF_Escuela\bin\Debug\EntityFramework.xml
+C:\Users\valdo\Documents\Accenture\Web API .Net Core\Proyectos\Inicio EntityFramework\SLN_Escuela\EF_Escuela\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\valdo\Documents\Accenture\Web API .Net Core\Proyectos\Inicio EntityFramework\SLN_Escuela\EF_Escuela\obj\Debug\EF_Escuela.csproj.AssemblyReference.cache
+C:\Users\valdo\Documents\Accenture\Web API .Net Core\Proyectos\Inicio EntityFramework\SLN_Escuela\EF_Escuela\obj\Debug\EF_Escuela.csproj.CoreCompileInputs.cache
+C:\Users\valdo\Documents\Accenture\Web API .Net Core\Proyectos\Inicio EntityFramework\SLN_Escuela\EF_Escuela\obj\Debug\EF_Escuela.dll
+C:\Users\valdo\Documents\Accenture\Web API .Net Core\Proyectos\Inicio EntityFramework\SLN_Escuela\EF_Escuela\obj\Debug\EF_Escuela.pdb
+C:\Users\valdo\Documents\Accenture\Web API .Net Core\Proyectos\Inicio EntityFramework\SLN_Escuela\EF_Escuela\obj\Debug\EF_Escuela.Migrations.initial.resources
+C:\Users\valdo\Documents\Accenture\Web API .Net Core\Proyectos\Inicio EntityFramework\SLN_Escuela\EF_Escuela\obj\Debug\EF_Escuela.csproj.GenerateResource.cache
