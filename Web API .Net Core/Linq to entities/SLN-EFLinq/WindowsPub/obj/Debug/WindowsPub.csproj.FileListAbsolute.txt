@@ -1,0 +1,14 @@
+C:\Users\valdo\Documents\Accenture\Web API .Net Core\Proyectos\Linq to entities\SLN-EFLinq\WindowsPub\bin\Debug\WindowsPub.exe.config
+C:\Users\valdo\Documents\Accenture\Web API .Net Core\Proyectos\Linq to entities\SLN-EFLinq\WindowsPub\bin\Debug\WindowsPub.exe
+C:\Users\valdo\Documents\Accenture\Web API .Net Core\Proyectos\Linq to entities\SLN-EFLinq\WindowsPub\bin\Debug\WindowsPub.pdb
+C:\Users\valdo\Documents\Accenture\Web API .Net Core\Proyectos\Linq to entities\SLN-EFLinq\WindowsPub\bin\Debug\EntityFramework.dll
+C:\Users\valdo\Documents\Accenture\Web API .Net Core\Proyectos\Linq to entities\SLN-EFLinq\WindowsPub\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\valdo\Documents\Accenture\Web API .Net Core\Proyectos\Linq to entities\SLN-EFLinq\WindowsPub\bin\Debug\EntityFramework.xml
+C:\Users\valdo\Documents\Accenture\Web API .Net Core\Proyectos\Linq to entities\SLN-EFLinq\WindowsPub\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\valdo\Documents\Accenture\Web API .Net Core\Proyectos\Linq to entities\SLN-EFLinq\WindowsPub\obj\Debug\WindowsPub.csproj.AssemblyReference.cache
+C:\Users\valdo\Documents\Accenture\Web API .Net Core\Proyectos\Linq to entities\SLN-EFLinq\WindowsPub\obj\Debug\WindowsPub.FormPubs.resources
+C:\Users\valdo\Documents\Accenture\Web API .Net Core\Proyectos\Linq to entities\SLN-EFLinq\WindowsPub\obj\Debug\WindowsPub.Properties.Resources.resources
+C:\Users\valdo\Documents\Accenture\Web API .Net Core\Proyectos\Linq to entities\SLN-EFLinq\WindowsPub\obj\Debug\WindowsPub.csproj.GenerateResource.cache
+C:\Users\valdo\Documents\Accenture\Web API .Net Core\Proyectos\Linq to entities\SLN-EFLinq\WindowsPub\obj\Debug\WindowsPub.csproj.CoreCompileInputs.cache
+C:\Users\valdo\Documents\Accenture\Web API .Net Core\Proyectos\Linq to entities\SLN-EFLinq\WindowsPub\obj\Debug\WindowsPub.exe
+C:\Users\valdo\Documents\Accenture\Web API .Net Core\Proyectos\Linq to entities\SLN-EFLinq\WindowsPub\obj\Debug\WindowsPub.pdb

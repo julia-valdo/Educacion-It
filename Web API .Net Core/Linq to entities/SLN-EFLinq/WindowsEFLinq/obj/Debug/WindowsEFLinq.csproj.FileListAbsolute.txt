@@ -1,0 +1,14 @@
+C:\Users\valdo\Documents\Accenture\Web API .Net Core\Proyectos\Linq to entities\SLN-EFLinq\WindowsEFLinq\bin\Debug\WindowsEFLinq.exe.config
+C:\Users\valdo\Documents\Accenture\Web API .Net Core\Proyectos\Linq to entities\SLN-EFLinq\WindowsEFLinq\bin\Debug\WindowsEFLinq.exe
+C:\Users\valdo\Documents\Accenture\Web API .Net Core\Proyectos\Linq to entities\SLN-EFLinq\WindowsEFLinq\bin\Debug\WindowsEFLinq.pdb
+C:\Users\valdo\Documents\Accenture\Web API .Net Core\Proyectos\Linq to entities\SLN-EFLinq\WindowsEFLinq\bin\Debug\EntityFramework.dll
+C:\Users\valdo\Documents\Accenture\Web API .Net Core\Proyectos\Linq to entities\SLN-EFLinq\WindowsEFLinq\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\valdo\Documents\Accenture\Web API .Net Core\Proyectos\Linq to entities\SLN-EFLinq\WindowsEFLinq\bin\Debug\EntityFramework.xml
+C:\Users\valdo\Documents\Accenture\Web API .Net Core\Proyectos\Linq to entities\SLN-EFLinq\WindowsEFLinq\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\valdo\Documents\Accenture\Web API .Net Core\Proyectos\Linq to entities\SLN-EFLinq\WindowsEFLinq\obj\Debug\WindowsEFLinq.csproj.AssemblyReference.cache
+C:\Users\valdo\Documents\Accenture\Web API .Net Core\Proyectos\Linq to entities\SLN-EFLinq\WindowsEFLinq\obj\Debug\WindowsEFLinq.Properties.Resources.resources
+C:\Users\valdo\Documents\Accenture\Web API .Net Core\Proyectos\Linq to entities\SLN-EFLinq\WindowsEFLinq\obj\Debug\WindowsEFLinq.csproj.GenerateResource.cache
+C:\Users\valdo\Documents\Accenture\Web API .Net Core\Proyectos\Linq to entities\SLN-EFLinq\WindowsEFLinq\obj\Debug\WindowsEFLinq.csproj.CoreCompileInputs.cache
+C:\Users\valdo\Documents\Accenture\Web API .Net Core\Proyectos\Linq to entities\SLN-EFLinq\WindowsEFLinq\obj\Debug\WindowsEFLinq.exe
+C:\Users\valdo\Documents\Accenture\Web API .Net Core\Proyectos\Linq to entities\SLN-EFLinq\WindowsEFLinq\obj\Debug\WindowsEFLinq.pdb
+C:\Users\valdo\Documents\Accenture\Web API .Net Core\Proyectos\Linq to entities\SLN-EFLinq\WindowsEFLinq\obj\Debug\WindowsEFLinq.FormProductos.resources
